@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/console": "~2.6",
+        "symfony/browser-kit": "~2.6",
+        "fabpot/goutte": "~2.0"
+    }
+}
